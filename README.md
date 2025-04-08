@@ -23,4 +23,9 @@ Before running the project, ensure you have the following installed:
 1. Clone the repository
 2. *If using nvm: run `nvm use`
 3. Run `npm install`
-4. Run `npm run dev` 
+4. Run `npm run dev`
+
+## Preview
+![image](https://github.com/user-attachments/assets/ff3ffe38-b282-4d99-b28a-720b7550afc9)
+![image](https://github.com/user-attachments/assets/2e32d8cb-0e80-4b88-ad32-52b37fe548bf)
+
